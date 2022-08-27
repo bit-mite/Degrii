@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Degrii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Degrii
+-I'm a student 
+-I'm new here 
+-I’m interested in learning more about coding 
+
 
 <!---
 Degrii/Degrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
